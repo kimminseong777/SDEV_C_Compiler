@@ -1,7 +1,5 @@
-# SDEV_C_Compiler
 
-
-## Mini C Compiler with flex & bison 
+# Mini C Compiler with flex & bison 
 
 
 
